@@ -74,6 +74,7 @@
 
 * [Pipeline Monitoring](pipeline/pipeline-monitoring.md)
 * [Inputs](pipeline/inputs/README.md)
+  * [AppScope](pipeline/inputs/appscope.md)
   * [Node Exporter Metrics](pipeline/inputs/node-exporter-metrics.md)
   * [Collectd](pipeline/inputs/collectd.md)
   * [CPU Metrics](pipeline/inputs/cpu-metrics.md)

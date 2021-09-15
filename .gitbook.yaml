@@ -4,6 +4,7 @@ redirects:
     installation/supported_platforms: ./installation/supported-platforms.md
 
     # Inputs
+    input/appscope:        ./pipeline/inputs/appscope.md
     input/collectd:        ./pipeline/inputs/
     input/cpu:             ./pipeline/inputs/cpu-metrics.md
     input/disk:            ./pipeline/inputs/disk-io-metrics.md

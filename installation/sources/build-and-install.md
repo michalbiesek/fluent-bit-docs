@@ -107,6 +107,7 @@ The _input plugins_ provides certain features to gather information from a speci
 
 | option | description | default |
 | :--- | :--- | :--- |
+| [FLB\_IN\_APPSCOPE](../../pipeline/inputs/appscope.md) | Enable AppScope input plugin | On |
 | [FLB\_IN\_COLLECTD](../../pipeline/inputs/collectd.md) | Enable Collectd input plugin | On |
 | [FLB\_IN\_CPU](../../pipeline/inputs/cpu-metrics.md) | Enable CPU input plugin | On |
 | [FLB\_IN\_DISK](../../pipeline/inputs/disk-io-metrics.md) | Enable Disk I/O Metrics input plugin | On |
